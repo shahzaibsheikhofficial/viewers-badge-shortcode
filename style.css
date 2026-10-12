@@ -1,0 +1,24 @@
+/** Live Viewers Box **/
+
+.ds-live-viewers{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    background: #E9F1DF;
+    border-radius:5px;
+    padding:10px 16px;
+    margin: 0px;
+    font-size:14px;
+    font-weight:500;
+    color:#222;
+}
+
+.ds-eye{
+    font-size:22px;
+    color:#6CA12B;
+}
+
+.ds-live-viewers strong{
+    color:#222;
+    font-weight:400;
+}
